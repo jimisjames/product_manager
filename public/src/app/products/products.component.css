@@ -1,0 +1,12 @@
+img{
+    width: 200px;
+}
+.product{
+    border: 1px solid gray;
+    background-color: rgb(193, 193, 253);
+    padding: 30px;
+    margin: 10px;
+}
+button{
+    margin-right: 10px;
+}

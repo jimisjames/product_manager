@@ -1,0 +1,10 @@
+body{
+    max-width: 600px;
+    margin: auto;
+    padding: 30px;
+}
+
+button{
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
